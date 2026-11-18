@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HealthData locale="en_US">
+  <Record type="ActiveEnergyBurned" sourceName="Apple Watch" device="Watch" startDate="2016-03-05 08:00:00 -0800" endDate="2016-03-05 08:30:00 -0800" value="300" unit="kcal" UUID="a1" />
+  <Record type="BasalEnergyBurned" sourceName="Apple Watch" device="Watch" startDate="2016-03-05 00:00:00 -0800" endDate="2016-03-05 23:59:59 -0800" value="1500" unit="kcal" UUID="a2" />
+  <Record type="ActiveEnergyBurned" sourceName="iPhone" device="" startDate="2016-03-05 09:00:00 -0800" endDate="2016-03-05 09:30:00 -0800" value="50000" unit="cal" UUID="a3" />
+  <Record type="BasalEnergyBurned" sourceName="Apple Watch" device="Watch" startDate="2016-03-05 12:00:00 -0800" endDate="2016-03-05 12:30:00 -0800" value="2000" unit="kJ" UUID="a4" />
+  <Record type="ActiveEnergyBurned" sourceName="Apple Watch" device="Watch" startDate="2016-03-06 08:00:00 -0800" endDate="2016-03-06 08:30:00 -0800" value="200" unit="kcal" UUID="b1" />
+  <Record type="ActiveEnergyBurned" sourceName="iPhone" device="" startDate="2016-03-06 08:00:00 -0800" endDate="2016-03-06 08:30:00 -0800" value="200" unit="kcal" UUID="b1" />
+  <Record type="BasalEnergyBurned" sourceName="Apple Watch" device="Watch" startDate="2016-03-06 00:00:00 -0800" endDate="2016-03-06 23:59:59 -0800" value="1600" unit="kcal" UUID="b2" />
+  <Record type="ActiveEnergyBurned" sourceName="iPhone" device="" startDate="2016-03-06 10:00:00 -0800" endDate="2016-03-06 10:30:00 -0800" value="-5" unit="kcal" UUID="b3" />
+  <Record type="ActiveEnergyBurned" sourceName="Apple Watch" device="Watch" startDate="2016-03-08 08:00:00 -0800" endDate="2016-03-08 08:30:00 -0800" value="400" unit="kcal" UUID="c1" />
+  <Record type="BasalEnergyBurned" sourceName="Apple Watch" device="Watch" startDate="2016-03-08 00:00:00 -0800" endDate="2016-03-08 23:59:59 -0800" value="1400" unit="kcal" UUID="c2" />
+  <Record type="ActiveEnergyBurned" sourceName="iPhone" device="" startDate="2016-03-08 09:00:00 -0800" endDate="2016-03-08 09:30:00 -0800" value="100" unit="Count" UUID="c3" />
+  <Record type="ActiveEnergyBurned" sourceName="iPhone" device="" startDate="2016-03-08 11:00:00 -0800" endDate="2016-03-08 11:30:00 -0800" value="6000" unit="kcal" UUID="c4" />
+  <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Apple Watch" device="Watch" startDate="2016-03-08 08:00:00 -0800" endDate="2016-03-08 08:01:00 -0800" value="70" unit="count/min" UUID="c5" />
+</HealthData>
